@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/PCController.dir/src/main.cpp.o CMakeFiles/PCController.dir/src/controllers/MainController.cpp.o CMakeFiles/PCController.dir/src/controllers/CommandHandler.cpp.o CMakeFiles/PCController.dir/src/network/SocketServer.cpp.o CMakeFiles/PCController.dir/src/include/controllers/CommandTypes.cpp.o -o /home/ammar/Desktop/PCController/bin/PCController 

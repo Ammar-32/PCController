@@ -1,0 +1,3 @@
+/home/ammar/Desktop/PCController/build/CMakeFiles/PCController.dir
+/home/ammar/Desktop/PCController/build/CMakeFiles/edit_cache.dir
+/home/ammar/Desktop/PCController/build/CMakeFiles/rebuild_cache.dir
