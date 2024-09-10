@@ -14,6 +14,10 @@ private:
     void openVSCode();
 
     void openFirefox();
+
+    void openYoutube();
+
+    void checkCpuUsage();
 };
 
 #endif // COMMAND_HANDLER_H

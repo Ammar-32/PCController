@@ -6,6 +6,8 @@
 enum class CommandType {
     OPEN_VSCODE,
     OPEN_FIREFOX,
+    OPEN_YOUTUBE,
+    CHECK_CPU_USAGE,
     INVALID
 };
 
